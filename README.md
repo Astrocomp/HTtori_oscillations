@@ -27,6 +27,6 @@ Based on the Kerr-spacetime code initially written by Straub & Sramkova 2009 [1]
 
 [C] *https://ui.adsabs.harvard.edu/abs/2019ApJ...877...66U/abstract*
 
-[D] *Matuszková et al. (Paper II, submitted)*
+[D] *Matuszková et al. (Paper I, submitted)*
 
 [E] *https://github.com/Astrocomp/HTtori*
