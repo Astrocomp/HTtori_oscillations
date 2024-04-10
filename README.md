@@ -4,7 +4,7 @@ Second-order pressure corrections to the frequencies of epicyclic modes of non-s
 
 This notebook and the results contained in it are an essential part of the following article and should be referred to when using it or parts of it:
 
-Matuszková et al. (Paper II, submitted).
+Matuszková et al. (Paper II, submitted): https://ui.adsabs.harvard.edu/abs/2024arXiv240316231M/abstract
 
 In the notebook we consider fluid tori around a slowly rotating neutron star and provide complete formulae for calculating frequencies of axisymmetric radial and vertical epicyclic oscillations and the precessions frequencies (frequencies of non-axisymmetric radial and vertical epicyclic oscillations), as well as their convenient approximations.
 
